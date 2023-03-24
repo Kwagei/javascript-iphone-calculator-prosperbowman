@@ -21,12 +21,3 @@ function wrapper(){
             click.style.backgroundColor ="whitesmoke";
          }
     }
-
-// function wrapper(){
-//   var click = document.getElementById("wrapper");
-//    if(click.style.backgroundColor ==="whitesmoke") {
-//             click.style.backgroundColor ="wheat";
-//          }else{ 
-//             click.style.backgroundColor ="whitesmoke";
-//          }
-//     }
